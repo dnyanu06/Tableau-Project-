@@ -1,0 +1,1 @@
+Created an interactive Tableau dashboard to visualize key insights from a dataset, including trends, comparisons, and patterns across categories. Applied filters, parameters, and calculated fields to make the dashboard dynamic and user-friendly, enabling clear and actionable data-driven decisions.
